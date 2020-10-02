@@ -1,0 +1,9 @@
+[master]
+master0 192.168.2.82
+
+[nodes]
+node1 192.168.2.83
+
+[all] 
+master
+nodes
